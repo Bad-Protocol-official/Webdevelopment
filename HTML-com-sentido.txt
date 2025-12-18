@@ -1,0 +1,20 @@
+		
+		
+		Notas do projeto HTML com sentido
+
+	A FAZER!!!
+
+Conteudo estrutural:
+Criar as versões pequenas das imagens usadas no nosso site, para usar em conjunto com o estilo responsivo, a primeira foto a ideia será cortar ao meio a mesma e ficar com as duas uma por cima da outra em ecrãs muito pequenos, a segunda foto a ideia é diminuir retirando talvez o simbolo da html e deixando antes a esquematica.
+
+Estilizar links, rever os textos e se for caso, adicionar abreviaturas(abbr), ou text-decoration no caso de ser apenas fator estetico.
+
+Criar e adicionar os logos HTML5 png com background transparente ao Header, um ao lado esquerdo, outro ao lado direito do H1.
+
+Na pagina: "aprender", criar uma lista que funcione como menu para os diferentes topicos
+
+---------------------------------------------------------------------------------------
+
+Conteudo do Site:
+
+Adicionar a pagina aprender um item de lista que será: Tipos de caixa Box-Level vs In-line, e identificar quais os tipos principais em cada um destes tipos, s mais comummente usados.
